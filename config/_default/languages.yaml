@@ -5,56 +5,52 @@
 # Default language
 en:
   languageCode: en-us
-  contentDir = "content/en"
+  contentDir:  content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: Academic
+ params:
+   description: Site description in Chinese...
+ menu:
+   main:
+     - name: 关于
+       url: '#about'
+       weight: 10
 
-[zh]
-  languageCode = "zh-Hans"
-  contentDir = "content/zh"
-  title = "Academic"
-  [zh.params]
-    description = "Site description in Chinese..."
+     - name: 技能
+       url: '#skills'
+       weight: 20
 
-  [[zh.menu.main]]
-    name = "主页"
-    url = "#about"
-    weight = 10
+     - name: 经历
+       url: '#experience'
+       weight: 30
 
-  [[zh.menu.main]]
-    name = "文章"
-    url = "#posts"
-    weight = 20
+     - name: 成就
+       url: '#accomplishments'
+       weight: 40
 
-  [[zh.menu.main]]
-    name = "项目"
-    url = "#projects"
-    weight = 30
+     - name: 文章
+       url: '#posts'
+       weight: 50
 
-  [[zh.menu.main]]
-    name = "论文"
-    url = "#featured"
-    weight = 40
+     - name: 项目
+       url: '#projects'
+       weight: 60
 
-  [[zh.menu.main]]
-    name = "联系我"
-    url = "#contact"
-    weight = 60
+     - name: 演讲
+       url: '#talks'
+       weight: 70
 
-  [[zh.menu.main]]
-    name = "教程"
-    url = "courses/"
-    weight = 80
+     - name: 论文
+       url: '#publications'
+       weight: 80
+
+     - name: 联系
+       url: '#contact'
+       weight: 90
+
