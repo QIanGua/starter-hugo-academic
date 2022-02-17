@@ -68,8 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-Qianlong Wang is a Ph.D. student of Condensed Physics at the Zhejiang University. His research interests include open quantum theory, quantum computation, artificial intelligence. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qianlong Wang is a Ph.D. student of Condensed Physics at the Zhejiang University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include open quantum theory, quantum computation, quantum biology and
+artificial intelligence. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WangqianLong.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -19,10 +19,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Open Quantum System
-- Quantum Computation
-- Artificial Intelligence
-- Scientific Computation
+- 开放量子系统
+- 量子计算
+- 量子生物学
+- 机器学习
 
 # Education to show in About widget
 education:
@@ -68,9 +68,11 @@ email: ""
 highlight_name: true
 ---
 
-Qianlong Wang is a Ph.D. student of Condensed Physics at the Zhejiang University. His research interests include open quantum theory, quantum computation, artificial intelligence. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+王乾龙博士，现于浙江大学物理就读凝聚态物理专业，研究方向为开放量子系统。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+对于零温下自旋-玻色模型的动力学和量子相变有系统的研究。
+
+研究兴趣涵盖量子信息、量子计算、量子相变、量子生物、科学高性能计算。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_WangqianLong.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
